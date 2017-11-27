@@ -1,7 +1,8 @@
 import java.util.Scanner;
 public class ModulusQuizzer
 	{
-
+//look at me making changes like a boss
+	//Im ballin y'all
 	public static void main(String[] args)
 		{
 		int counter = 0;
